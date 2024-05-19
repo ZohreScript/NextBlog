@@ -1,0 +1,6 @@
+{
+    "app": "blognext",
+    "next": {
+        "modifyConfig": false
+    }
+}
