@@ -13,7 +13,7 @@ const Login =async () => {
             <Container>
                 <LoginForm/>
                 <div className="mt-8">
-<Link href='/register' className='hover:text-blue-600'>
+<Link href='/register' className='hover:text-blue-700'>
     <p className="text-center">برای عضویت کلیک نمایید</p>
 </Link>
                 </div>
